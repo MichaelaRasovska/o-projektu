@@ -1,0 +1,12 @@
+.hlavicka {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+}
+
+.menu {
+  display: flex;
+  flex-basis: 300px;
+  justify-content: space-between;
+  align-items: center;
+}
