@@ -16,3 +16,21 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
+a {
+  text-decoration: none;
+}
+
+.michaela {
+  display: flex;
+  flex-basis: 600px;
+}
+.michaela img {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.michaela p {
+  margin: 30px;
+  width: 400px;
+}
