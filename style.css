@@ -1,13 +1,13 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   display: flex;
   flex-direction: column;
+  color: black;
 }
 
 .hlavicka {
   display: flex;
   justify-content: space-between;
-  background-color: aquamarine;
 }
 
 .menu {
@@ -24,6 +24,8 @@ a {
 .michaela {
   display: flex;
   flex-basis: 600px;
+  justify-content: center;
+  align-items: center;
 }
 .michaela img {
   width: 200px;
@@ -35,9 +37,23 @@ a {
   width: 400px;
 }
 
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.odkazy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .kristyna {
   display: flex;
   flex-basis: 600px;
+  justify-content: center;
+  align-items: center;
 }
 .kristyna img {
   width: 200px;
