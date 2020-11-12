@@ -34,3 +34,17 @@ a {
   margin: 30px;
   width: 400px;
 }
+
+.kristyna {
+  display: flex;
+  flex-basis: 600px;
+}
+.kristyna img {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.kristyna p {
+  margin: 30px;
+  width: 400px;
+}
