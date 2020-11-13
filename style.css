@@ -31,7 +31,7 @@ a {
 }
 
 .michaela p {
-  margin: 30px;
+  margin: 50px;
   width: 400px;
 }
 
@@ -59,8 +59,20 @@ h2 {
 }
 
 .kristyna p {
-  margin: 30px;
+  margin: 50px;
   width: 400px;
+}
+.linkedin {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: url(img/linkedin.svg);
+}
+.github {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: url(img/github.svg);
 }
 .layout {
   display: -webkit-box;
