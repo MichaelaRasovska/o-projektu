@@ -145,3 +145,11 @@ img {
 .layout__item * + * {
   margin-top: 1em;
 }
+
+.logo {
+  width: 300px;
+}
+
+.odkazy p {
+  margin: 5px;
+}
